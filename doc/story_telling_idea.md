@@ -38,6 +38,22 @@ What are open close principle and ocr, why both matter and how both also applica
 ## Character
 
 1.  Takeshi Tesseract
+-   gender: male
+-   music : guitar
+-   tech  : Tesseract OCR
 2.  Oscar C. V.
+-   gender: male
+-   music : piano
+-   tech  : Open CV
 3.  Rebecca actor
+-   gender: female
+-   music : sing
+-   tech  : React
 4.  Typescripter
+-   gender: male
+-   music : drum
+-   tech  : Typescript
+5.  Electronic Artist
+-   gender: male
+-   music : rap
+-   tech  : Electron Desktop framework
