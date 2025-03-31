@@ -7,6 +7,6 @@ for getting the text data from bill and table of text, with user friendly UXUI E
 This repository contains 3 sub repositories
 1.  `doc/` (documentation)
 2.  `frontend/`
-3.  `open_close_rider_lib/` (OCR library)
+3.  `open_close_rider_lib/` (OCR library, this folder is empty)
 
-This app is not finished yet.
+This app is not finished and in development process.
