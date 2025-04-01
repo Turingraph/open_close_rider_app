@@ -46,7 +46,7 @@ For anyone who want to contribute our project, you can
 4.  Add new feature in our app in `frontend/src/page/`
 5.  Combine our React Typescript based app with `open_close_rider` and Electron framework
 6.  Write how to deploy our app as Desktop app in `doc/` directory.
-7.  Contribute other related Repository (Read README.md of https://github.com/Turingraph/open_close_rider)
+7.  Contribute other related Repositories (Read README.md of https://github.com/Turingraph/open_close_rider)
     for more details.
 
 Thank you for your contribution.
