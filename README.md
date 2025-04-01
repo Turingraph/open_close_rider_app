@@ -4,7 +4,7 @@ The purpose of this repository is to allow user to use `open_close_rider` (https
 which is our Pytesseract Open CV based library, for getting the text data from bill and table of text, 
 with user friendly UXUI Electron React Typescript based Desktop App and without any coding skill.
 
-This repository contains 2 sub repositories
+This repository contains 3 sub repositories
 1.  `doc/`
 -   Contains : Additional documentation about our project.
 2.  `doc_tutorial/`
