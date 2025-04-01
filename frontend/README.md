@@ -1,7 +1,5 @@
 # Folder Structure
 
-1.  `prev_src`
--	Contains : `version_n` (unused previous version files) and `tutorial/` (coding example and coding tutorial) as txt files. It might be beneficial for our project in the future.
 1.	`public/`
 -	Contains : static files e.g. image etc (https://www.geeksforgeeks.org/videos/how-to-use-files-in-public-folder-in-reactjs/)
 2.	`src/`
